@@ -69,5 +69,6 @@
     "autoload": {
         "psr-0": { "Ddeboer\\Salesforce\\ClientBundle": "" }
     },
-    "target-dir": "Ddeboer/Salesforce/ClientBundle"
+    "target-dir": "Ddeboer/Salesforce/ClientBundle",
+    "minimum-stability": "dev"
 }
