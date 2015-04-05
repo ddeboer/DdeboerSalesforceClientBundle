@@ -1,5 +1,8 @@
 [![Build Status](https://secure.travis-ci.org/ddeboer/DdeboerSalesforceClientBundle.png?branch=master)](http://travis-ci.org/ddeboer/DdeboerSalesforceClientBundle)
 
+# Deprecated! This bundle has been replaced with [phpforce/salesforce-bundle](https://github.com/phpforce/salesforce-bundle).
+
+
 Ddeboer Salesforce Client Bundle
 ================================
 
